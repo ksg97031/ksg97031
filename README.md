@@ -1,3 +1,6 @@
+## 🔥🔥🔥
+I'm KSG, with a keen interest in open source security and development.
+
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#17398](https://github.com/django/django/pull/17398) in [django/django](https://github.com/django/django)
