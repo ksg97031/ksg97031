@@ -1,7 +1,7 @@
 ## 🔥🔥🔥
 👋 Hello, I'm KSG.  
 🔐 Passionate about open source security & development.  
-📧 Contact me at ksg97031@gmail.com"  
+📧 Contact me at ksg97031@gmail.com  
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
