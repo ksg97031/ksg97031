@@ -1,5 +1,7 @@
 ## 🔥🔥🔥
-Hello, I'm KSG, and I have a keen interest in open source security and development.
+👋 Hello, I'm KSG.  
+🔐 Passionate about open source security & development.  
+📧 Contact me at ksg97031@gmail.com"  
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
