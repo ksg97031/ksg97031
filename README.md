@@ -3,7 +3,7 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#552](https://github.com/owasp-noir/noir/issues/552#issuecomment-2685514450) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
+1. 🗣 Commented on [#7980](https://github.com/danny-avila/LibreChat/pull/7980#issuecomment-2989630088) in [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
 2. 🎉 Merged PR [#553](https://github.com/owasp-noir/noir/pull/553) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
 3. 💪 Opened PR [#553](https://github.com/owasp-noir/noir/pull/553) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
 4. 🗣 Commented on [#541](https://github.com/owasp-noir/noir/pull/541#issuecomment-2676963500) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
