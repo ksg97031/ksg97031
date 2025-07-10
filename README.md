@@ -3,9 +3,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7980](https://github.com/danny-avila/LibreChat/pull/7980#issuecomment-2989630088) in [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
-2. 🎉 Merged PR [#553](https://github.com/owasp-noir/noir/pull/553) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
-3. 💪 Opened PR [#553](https://github.com/owasp-noir/noir/pull/553) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
+1. 💪 Opened PR [#17173](https://github.com/n8n-io/n8n/pull/17173) in [n8n-io/n8n](https://github.com/n8n-io/n8n)
+2. ❗ Opened issue [#17172](https://github.com/n8n-io/n8n/issues/17172) in [n8n-io/n8n](https://github.com/n8n-io/n8n)
+3. 🗣 Commented on [#7980](https://github.com/danny-avila/LibreChat/pull/7980#issuecomment-2989630088) in [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
 4. 🗣 Commented on [#541](https://github.com/owasp-noir/noir/pull/541#issuecomment-2676963500) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
 5. 🗣 Commented on [#541](https://github.com/owasp-noir/noir/pull/541#issuecomment-2676901931) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
 6. 🔒 Closed issue [#527](https://github.com/owasp-noir/noir/issues/527) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
