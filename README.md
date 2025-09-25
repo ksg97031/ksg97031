@@ -3,8 +3,8 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/ksg97031/frida-gadget/pull/35) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
-2. 🗣 Commented on [#33](https://github.com/ksg97031/frida-gadget/issues/33#issuecomment-3247634296) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
+1. 🗣 Commented on [#33](https://github.com/ksg97031/frida-gadget/issues/33#issuecomment-3247634296) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
+2. 🗣 Commented on [#683](https://github.com/owasp-noir/noir/issues/683#issuecomment-3240840791) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
 3. 🗣 Commented on [#683](https://github.com/owasp-noir/noir/issues/683#issuecomment-3240840791) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
 4. 🔒 Closed issue [#628](https://github.com/owasp-noir/noir/issues/628) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
 5. 🔒 Closed issue [#631](https://github.com/owasp-noir/noir/issues/631) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
