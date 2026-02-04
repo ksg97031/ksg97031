@@ -3,7 +3,7 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#857](undefined) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
+1. 💪 Opened PR [#1893](undefined) in [pingcap/ossinsight](https://github.com/pingcap/ossinsight)
 2. 💪 Opened PR [#1](undefined) in [ksg97031/flipper](https://github.com/ksg97031/flipper)
 3. 💪 Opened PR [#1](https://github.com/ksg97031/flipper/pull/1) in [ksg97031/flipper](https://github.com/ksg97031/flipper)
 4. 🎉 Merged PR [#35](https://github.com/ksg97031/frida-gadget/pull/35) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
