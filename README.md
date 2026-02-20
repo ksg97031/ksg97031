@@ -3,8 +3,8 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1005](https://github.com/owasp-noir/noir/issues/1005) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
-2. 💪 Opened PR [#1893](undefined) in [pingcap/ossinsight](https://github.com/pingcap/ossinsight)
+1. 🗣 Commented on [#1048](https://github.com/owasp-noir/noir/pull/1048#issuecomment-3935704903) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
+2. 🔒 Closed issue [#1005](https://github.com/owasp-noir/noir/issues/1005) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
 3. 💪 Opened PR [#1](https://github.com/ksg97031/flipper/pull/1) in [ksg97031/flipper](https://github.com/ksg97031/flipper)
 4. 🎉 Merged PR [#35](https://github.com/ksg97031/frida-gadget/pull/35) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
 5. 🗣 Commented on [#683](https://github.com/owasp-noir/noir/issues/683#issuecomment-3240840791) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
