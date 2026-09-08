@@ -4,9 +4,9 @@
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. ❌ Merged PR [#907](undefined) in [hahwul/gori](https://github.com/hahwul/gori)
-2. 💪 Opened PR [#907](undefined) in [hahwul/gori](https://github.com/hahwul/gori)
-3. 🗣 Commented on [#37](https://github.com/ksg97031/frida-gadget/pull/37#issuecomment-5267222391) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
-4. 🗣 Commented on [#39](https://github.com/ksg97031/frida-gadget/pull/39#issuecomment-5267076347) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
+2. 🗣 Commented on [#37](https://github.com/ksg97031/frida-gadget/pull/37#issuecomment-5267222391) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
+3. 🗣 Commented on [#39](https://github.com/ksg97031/frida-gadget/pull/39#issuecomment-5267076347) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
+4. 🗣 Commented on [#38](https://github.com/ksg97031/frida-gadget/pull/38#issuecomment-5267073815) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
 5. 🗣 Commented on [#38](https://github.com/ksg97031/frida-gadget/pull/38#issuecomment-5267073815) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
 6. 🗣 Commented on [#631](https://github.com/owasp-noir/noir/issues/631#issuecomment-3184871801) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
 7. 🎉 Merged PR [#664](https://github.com/owasp-noir/noir/pull/664) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
