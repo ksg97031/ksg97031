@@ -3,7 +3,7 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/ksg97031/frida-gadget/pull/37#issuecomment-5267222391) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
+1. 🗣 Commented on [#3470](https://github.com/owasp-noir/noir/issues/3470#issuecomment-6595351653) in [owasp-noir/noir](https://github.com/owasp-noir/noir)
 2. 🗣 Commented on [#39](https://github.com/ksg97031/frida-gadget/pull/39#issuecomment-5267076347) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
 3. 🗣 Commented on [#38](https://github.com/ksg97031/frida-gadget/pull/38#issuecomment-5267073815) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
 4. 🗣 Commented on [#38](https://github.com/ksg97031/frida-gadget/pull/38#issuecomment-5267073815) in [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget)
